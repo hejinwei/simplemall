@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.simplemall.micro.serv.base</groupId>
-		<artifactId>base-serv</artifactId>
+		<artifactId>base-service</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.simplemall.micro.serv.base.turbine</groupId>

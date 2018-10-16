@@ -13,7 +13,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<modules>
-		<module>base-serv</module>
+		<module>base-service</module>
 		<module>account-sevice</module>
 		<module>product-service</module>
 		<module>order-service</module>
@@ -32,5 +32,5 @@
 			<groupId>com.alibaba</groupId>
 			<artifactId>druid-spring-boot-starter</artifactId>
 			<version>${alibaba.druid.version}<ersion>
-		</dependency> -->update pom next time
+		</dependency> -->
 </project>
